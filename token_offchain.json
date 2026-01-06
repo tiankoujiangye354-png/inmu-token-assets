@@ -1,0 +1,14 @@
+{
+  "name": "INMUCoin",
+  "symbol": "INMU",
+  "description": "INMUCoin 公式トークン",
+  "image": "https://raw.githubusercontent.com/tiankoujiangye354-png/inmu-token-assets/4dad571dd7ce310806aed4cc65f3f1c7b8cc6163/INMUCoin.png",
+  "external_url": "https://github.com/tiankoujiangye354-png/inmu-token-assets",
+  "attributes": [],
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/tiankoujiangye354-png/inmu-token-assets/4dad571dd7ce310806aed4cc65f3f1c7b8cc6163/INMUCoin.png", "type": "image/png" }
+    ],
+    "category": "image"
+  }
+}
